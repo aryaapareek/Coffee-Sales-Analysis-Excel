@@ -29,3 +29,4 @@ This project involves building an end-to-end interactive Excel dashboard to anal
     *   **Report Connections:** Linked all slicers and timelines to every chart, ensuring the entire dashboard updates dynamically based on user selection.
 
 ## Snapshots
+https://github.com/aryaapareek/Coffee-Sales-Analysis-Excel/blob/main/Screenshot%202026-02-14%20000622.png
